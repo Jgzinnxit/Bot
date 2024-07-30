@@ -29,7 +29,7 @@ termux-setup-storage
 ```
 **3° Comando**
 ```
-cd /sdcard && git clone https://github.com/jgzinnxit/gojomd
+cd /sdcard && git clone https://github.com/jgzinnxit/bot
 ```
 **4° Comando**
 ```
